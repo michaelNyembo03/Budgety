@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"path": "c:\\xampp\\htdocs\\Capstone project LMS_Computer programming"
+		},
+		{
+			"path": "c:\\Users\\MichaelNyemboNb\\Downloads\\Compressed\\travel"
+		},
+		{
+			"path": "..\\..\\Online Supermarket\\Online Supermarket Internet Programming Project\\Supermaket"
+		},
+		{
+			"path": "..\\Acme Web Design"
+		},
+		{
+			"path": "..\\Calculator JS"
+		},
+		{
+			"path": "..\\Pig Game"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\Javascript Developement\\project\\Quiz App"
+		},
+		{
+			"path": "..\\..\\Javascript Developement\\project\\Stop watch"
+		},
+		{
+			"path": "..\\..\\Javascript Developement\\project\\Tic Tac Toe Game"
+		},
+		{
+			"path": "..\\..\\Javascript Developement\\project\\TodoList"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Sales_Management_Systemmmm"
+	}
+}
